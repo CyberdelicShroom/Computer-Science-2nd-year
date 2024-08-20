@@ -1,0 +1,5 @@
+program index
+define func(integer array a[])
+begin
+ integer i
+end

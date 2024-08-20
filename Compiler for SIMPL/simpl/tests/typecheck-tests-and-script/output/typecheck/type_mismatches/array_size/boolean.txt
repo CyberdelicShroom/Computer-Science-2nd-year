@@ -1,0 +1,1 @@
+simplc: boolean.simpl:6:13: error: incompatible types (expected integer, found boolean) for array size of 'a'

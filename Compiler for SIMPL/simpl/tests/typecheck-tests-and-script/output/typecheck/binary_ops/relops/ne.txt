@@ -1,0 +1,1 @@
+simplc: ne.simpl:6:11: error: incompatible types (expected integer, found boolean) for operator '#'

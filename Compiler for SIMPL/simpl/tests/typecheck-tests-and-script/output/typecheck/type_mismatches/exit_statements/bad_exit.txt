@@ -1,0 +1,1 @@
+simplc: bad_exit.simpl:6:8: error: incompatible types (expected boolean array, found integer) for 'exit' statement

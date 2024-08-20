@@ -1,0 +1,12 @@
+program arglist
+define function() -> integer
+begin
+ integer a;
+ a <- 2;
+ exit a
+end
+begin
+ integer i;
+ i <- function(3, 4, 5)
+end
+ 

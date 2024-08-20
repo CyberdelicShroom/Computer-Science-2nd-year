@@ -1,0 +1,15 @@
+program arglist
+define function(integer a, boolean array b)
+begin
+                                                                          integer
+array a;
+a <-                                             integer array 1000000;
+ a[1] <- 2021
+ a[0] <- a[1] + 1
+end
+begin
+ boolean array b;
+ b <- array 10;
+ function(1, b, 3)
+end
+ 

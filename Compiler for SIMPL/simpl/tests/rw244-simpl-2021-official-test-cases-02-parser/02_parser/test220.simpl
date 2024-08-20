@@ -1,0 +1,8 @@
+program test220
+	define dummy()
+	begin
+		chill
+	end
+begin
+	dummy()
+end

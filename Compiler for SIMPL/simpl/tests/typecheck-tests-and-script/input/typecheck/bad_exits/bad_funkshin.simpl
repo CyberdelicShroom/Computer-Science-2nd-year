@@ -1,0 +1,5 @@
+program funkshyn
+define exitt(integer a, boolean b, boolean array c, integer array d) -> boolean
+begin
+ exit
+end

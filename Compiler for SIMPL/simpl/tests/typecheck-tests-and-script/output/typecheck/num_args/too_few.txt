@@ -1,0 +1,1 @@
+simplc: too_few.simpl:15:12: error: too few arguments for call to 'function'

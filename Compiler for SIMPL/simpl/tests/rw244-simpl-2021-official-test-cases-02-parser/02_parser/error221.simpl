@@ -1,0 +1,6 @@
+program error221
+begin
+    read
+end
+
+(* should return ID error, not FACTOR error ... *)

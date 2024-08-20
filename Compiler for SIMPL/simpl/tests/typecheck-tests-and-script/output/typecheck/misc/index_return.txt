@@ -1,0 +1,1 @@
+simplc: index_return.simpl:8:5: error: missing exit expression for a function

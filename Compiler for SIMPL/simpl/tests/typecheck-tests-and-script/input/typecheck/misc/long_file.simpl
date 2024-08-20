@@ -1,0 +1,65 @@
+program test_exits
+
+
+define go_left()
+ begin
+  write "hello" & ", world."
+ end
+
+define go_right()
+ begin
+  boolean array andd;
+  andd <- array 1;
+  read andd[1]
+ end
+
+ define return_int_array() -> integer array
+  begin
+   integer array gamma;
+   integer i;
+   integer cmp;
+   integer lo;
+   integer hi;
+   integer mid;
+   integer key;
+   gamma <- array 128;
+   i <- 0;
+   (* initialize array *)
+   while (i < 128)
+    do
+     gamma[i] <- i;
+     i <- i + 1
+    end;
+   (* setup vars *) 
+   i <- 0;
+   lo <- 0;
+   hi <- 128;
+   while (lo <= hi)
+    do
+    mid <- lo + (hi - lo) / 2;
+    cmp <- key - gamma[mid];
+    if (cmp < 0)
+     then 
+      go_left();
+      hi <- mid - 1
+    elsif (cmp > 0)
+     then 
+      go_right();
+      lo <- mid + 1
+    elsif (cmp = 0) 
+     then 
+      exit gamma
+    end;
+     exit gamma
+   end
+  end
+
+begin
+ integer array zeta;
+ integer prime;
+ go_left();
+ go_right();
+ zeta <- array 5;
+ zeta <- return_int_array();
+ prime <- zeta[2]
+end

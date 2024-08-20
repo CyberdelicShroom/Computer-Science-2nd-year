@@ -1,0 +1,1 @@
+simplc: bad_or.simpl:9:72: error: incompatible types (expected boolean, found integer) for operator 'or'

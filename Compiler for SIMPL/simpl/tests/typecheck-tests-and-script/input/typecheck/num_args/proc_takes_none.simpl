@@ -1,0 +1,9 @@
+program arglist
+define procedure()
+begin
+ integer a;
+ a <- 2 
+end
+begin
+ procedure(3, 4, 5)
+end

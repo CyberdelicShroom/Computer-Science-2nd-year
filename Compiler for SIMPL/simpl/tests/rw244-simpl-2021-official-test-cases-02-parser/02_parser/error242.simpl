@@ -1,0 +1,8 @@
+program test242
+    define f(integer i) integer 
+    begin
+        chill
+    end
+begin
+    chill
+end

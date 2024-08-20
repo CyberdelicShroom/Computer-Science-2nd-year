@@ -1,0 +1,6 @@
+program ge
+begin
+ boolean a;
+ integer array b;
+ a <- 45 < b
+end

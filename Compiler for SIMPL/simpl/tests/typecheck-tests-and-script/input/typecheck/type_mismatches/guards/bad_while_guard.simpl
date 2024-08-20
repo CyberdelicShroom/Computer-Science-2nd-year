@@ -1,0 +1,4 @@
+program this_is_actually_a_bad_guard
+begin
+ while (5)
+end

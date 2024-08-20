@@ -1,0 +1,6 @@
+program ia_size
+begin
+integer array i;
+integer array j;
+j <- array i
+end

@@ -1,0 +1,1 @@
+simplc: int_pls3.simpl:8:23: error: incompatible types (expected integer, found boolean) for parameter 3 of call to 'takes_int'

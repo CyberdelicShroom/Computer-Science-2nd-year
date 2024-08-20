@@ -1,0 +1,1 @@
+simplc: array_assignments.simpl:16:15: error: too many arguments for call to 'function'

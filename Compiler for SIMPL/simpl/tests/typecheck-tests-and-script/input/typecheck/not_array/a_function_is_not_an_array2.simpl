@@ -1,0 +1,10 @@
+program dont_index_me_bro
+define function() -> boolean array
+begin
+ boolean array ia;
+ exit ia
+end
+begin
+ boolean i;
+ i <- function[256]
+end

@@ -1,0 +1,9 @@
+program nooooooo
+define takes_int(integer i) -> integer
+begin
+ exit i + 2
+end
+begin
+ integer i;
+ i <- takes_int(true)
+end

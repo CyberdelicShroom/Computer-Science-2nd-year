@@ -1,0 +1,1 @@
+simplc: another_bad_if_guard.simpl:3:5: error: incompatible types (expected boolean, found integer) for 'if' guard

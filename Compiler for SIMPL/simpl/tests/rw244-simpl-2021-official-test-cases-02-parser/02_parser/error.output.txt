@@ -1,0 +1,44 @@
+simplc: error201.simpl:1:0: error: expected 'program', but found end-of-file
+simplc: error202.simpl:1:17: error: illegal character ':' (ASCII #58)
+simplc: error203.simpl:3:10: error: expected 'end', but found end-of-file
+simplc: error204.simpl:3:16: error: expected identifier, but found ';'
+simplc: error205.simpl:4:5: error: expected ';', but found 'boolean'
+simplc: error206.simpl:3:6: error: expected argument list or variable assignment, but found ','
+simplc: error207.simpl:6:1: error: expected array allocation or expression, but found 'end'
+simplc: error208.simpl:14:5: error: expected 'end', but found 'write'
+simplc: error209.simpl:8:13: error: expected factor, but found '<'
+simplc: error210.simpl:8:27: error: expected ']', but found '<-'
+simplc: error211.simpl:8:9: error: expected ']', but found '<'
+simplc: error212.simpl:2:1: error: expected identifier, but found 'begin'
+simplc: error213.simpl:2:5: error: expected 'begin', but found 'chill'
+simplc: error214.simpl:3:15: error: expected ';', but found identifier
+simplc: error215.simpl:4:1: error: expected statement, but found 'end'
+simplc: error216.simpl:5:7: error: expected argument list or variable assignment, but found number
+simplc: error217.simpl:9:9: error: expected 'then', but found 'chill'
+simplc: error218.simpl:5:8: error: expected factor, but found 'then'
+simplc: error219.simpl:6:5: error: expected statement, but found 'end'
+simplc: error220.simpl:4:1: error: expected expression or string, but found 'end'
+simplc: error221.simpl:4:1: error: expected identifier, but found 'end'
+simplc: error222.simpl:4:5: error: expected statement, but found 'end'
+simplc: error223.simpl:4:9: error: expected 'do', but found 'chill'
+simplc: error224.simpl:4:1: error: expected factor, but found 'end'
+simplc: error225.simpl:4:1: error: expected factor, but found 'end'
+simplc: error226.simpl:4:1: error: expected factor, but found 'end'
+simplc: error227.simpl:4:1: error: expected factor, but found 'end'
+simplc: error228.simpl:4:1: error: expected factor, but found 'end'
+simplc: error229.simpl:4:1: error: expected factor, but found 'end'
+simplc: error230.simpl:4:1: error: expected ')', but found 'end'
+simplc: error231.simpl:6:1: error: expected ']', but found 'end'
+simplc: error232.simpl:6:1: error: expected factor, but found 'end'
+simplc: error233.simpl:4:1: error: expected factor, but found 'end'
+simplc: error234.simpl:5:10: error: expected 'end', but found ';'
+simplc: error235.simpl:5:50: error: expected factor, but found ')'
+simplc: error236.simpl:5:27: error: expected factor, but found ')'
+simplc: error237.simpl:5:45: error: expected factor, but found ']'
+simplc: error238.simpl:6:5: error: expected 'end', but found 'begin'
+simplc: error239.simpl:5:11: error: expected argument list or variable assignment, but found identifier
+simplc: error240.simpl:2:14: error: expected ')', but found identifier
+simplc: error241.simpl:10:13: error: expected array allocation or expression, but found 'write'
+simplc: error242.simpl:2:25: error: expected 'begin', but found 'integer'
+simplc: error243.simpl:2:36: error: expected 'begin', but found identifier
+simplc: error244.simpl:10:13: error: expected 'end', but found identifier

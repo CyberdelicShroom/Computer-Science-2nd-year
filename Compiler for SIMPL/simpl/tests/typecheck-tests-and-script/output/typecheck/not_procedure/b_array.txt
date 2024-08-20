@@ -1,0 +1,1 @@
+simplc: b_array.simpl:5:2: error: 'a' is not a procedure

@@ -1,0 +1,1 @@
+simplc: b_array.simpl:7:7: error: 'b' is not a function

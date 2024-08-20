@@ -1,0 +1,1 @@
+simplc: unknown.simpl:16:11: error: unknown identifier 'a'

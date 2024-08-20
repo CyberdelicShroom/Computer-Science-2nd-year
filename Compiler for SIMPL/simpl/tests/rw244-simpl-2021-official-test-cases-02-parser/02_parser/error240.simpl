@@ -1,0 +1,8 @@
+program error240
+    define f(int i) ->
+    begin
+        chill
+    end
+begin
+    chill
+end

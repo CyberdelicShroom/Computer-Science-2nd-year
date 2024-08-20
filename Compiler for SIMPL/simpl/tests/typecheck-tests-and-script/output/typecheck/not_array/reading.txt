@@ -1,0 +1,1 @@
+simplc: reading.simpl:4:7: error: 'i' is not an array

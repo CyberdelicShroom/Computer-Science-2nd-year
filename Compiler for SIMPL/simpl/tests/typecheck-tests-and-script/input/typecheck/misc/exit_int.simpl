@@ -1,0 +1,24 @@
+program test_exits
+
+ define return_integer() -> integer
+  begin
+   integer array alpha;
+   alpha <- array 11111;
+   alpha[3] <- 1;
+   alpha[4] <- alpha[3];
+   exit alpha[3]
+  end
+
+begin
+ integer epsilon;
+ epsilon <- return_integer();
+ if (epsilon < 0)
+  then
+   write"Calculus wants to know your location."
+ elsif (epsilon = 0)
+  then
+   write "When has epsilon ever not been > 0?"
+ else
+  write "Now if only there was some delta..."
+  end 
+end

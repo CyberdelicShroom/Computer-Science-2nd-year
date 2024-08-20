@@ -1,0 +1,11 @@
+program error244
+    define f(integer i) -> integer
+    begin
+        exit i - 1
+    end
+begin
+    integer x, y;
+
+    x <- 3;
+    y <- f  x)
+end

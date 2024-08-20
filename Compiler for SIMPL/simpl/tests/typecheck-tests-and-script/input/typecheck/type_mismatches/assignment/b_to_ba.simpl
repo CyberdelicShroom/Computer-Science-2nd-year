@@ -1,0 +1,38 @@
+program iff
+
+define get_int() -> integer
+begin
+ integer i;
+ i <- 234;
+ exit i
+end
+
+define get_bool() -> boolean
+begin
+ boolean b;
+ b <- false;
+ exit b
+end
+
+define get_bool_array() -> boolean array
+begin
+ boolean array ba;
+ ba <- array 1234;
+ exit ba
+end
+
+define get_int_array() -> integer array
+begin
+ integer array ia;
+ ia <- array 1234;
+ exit ia
+end
+
+begin
+ integer i;
+ integer array j;
+ boolean b;
+ boolean array c;
+ (* a boolean array shouldn't be assigned a boolean *) 
+ c <- get_bool()
+end

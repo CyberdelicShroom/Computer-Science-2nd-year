@@ -1,0 +1,1 @@
+simplc: mul.simpl:5:17: error: '*' is an illegal array operation

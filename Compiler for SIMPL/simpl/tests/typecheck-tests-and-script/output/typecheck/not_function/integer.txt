@@ -1,0 +1,1 @@
+simplc: integer.simpl:5:2: error: 'i' is not a function

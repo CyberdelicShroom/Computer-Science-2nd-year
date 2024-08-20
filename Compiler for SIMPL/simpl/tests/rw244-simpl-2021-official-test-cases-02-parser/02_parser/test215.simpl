@@ -1,0 +1,15 @@
+program test215
+begin
+    integer i;
+
+    write "Please enter a positive integer: ";
+    read i;
+    if i > 0 then
+        while i >= 0 do
+            write "There are " & i - 1 & " repetisions left.\n";
+            i <- i - 1
+        end
+    else
+        write i & " is not a positive integer!\n"
+    end
+end

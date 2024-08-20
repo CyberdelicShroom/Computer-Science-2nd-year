@@ -1,0 +1,9 @@
+program programm
+begin
+ integer array ia;
+ boolean array ba;
+ if (ba[2] and ia)
+  then
+   chill
+  end
+end

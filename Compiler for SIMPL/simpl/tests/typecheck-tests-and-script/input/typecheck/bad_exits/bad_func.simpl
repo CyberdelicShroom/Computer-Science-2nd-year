@@ -1,0 +1,10 @@
+program exit_missing
+define ffffffffffff() -> boolean array
+begin
+ boolean array a;
+ a <- array 9001
+ (* The reserved word 'exit' doesn't appear. Should that cause an error? *)
+end
+begin
+ chill
+end

@@ -1,0 +1,9 @@
+program type
+define some_function() -> boolean array
+begin
+ exit boolean array
+end
+begin
+ (* is the function definition above correct? *)
+ some_function()
+end

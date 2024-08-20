@@ -1,0 +1,1 @@
+simplc: or.simpl:5:55: error: incompatible types (expected boolean, found integer) for operator 'or'

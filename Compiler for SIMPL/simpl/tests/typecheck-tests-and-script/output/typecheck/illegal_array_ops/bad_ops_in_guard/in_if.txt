@@ -1,0 +1,1 @@
+simplc: in_if.simpl:5:12: error: 'and' is an illegal array operation

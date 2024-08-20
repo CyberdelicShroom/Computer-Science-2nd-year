@@ -1,0 +1,1 @@
+simplc: unary_bool.simpl:7:8: error: incompatible types (expected integer, found boolean) for unary minus

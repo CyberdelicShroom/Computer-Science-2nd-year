@@ -1,0 +1,14 @@
+program hello
+
+define function(integer a, boolean g) -> boolean array
+ begin
+	(* should the below work? *)
+ exit array 10
+ (* should this end be below the exit? *) 
+ end  
+
+ begin
+  integer a;
+  boolean array b;
+  b <- true or false and true or false or false or false and true or 900
+ end

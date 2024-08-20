@@ -1,0 +1,1 @@
+simplc: mod.simpl:5:9: error: incompatible types (expected integer, found boolean) for operator 'mod'

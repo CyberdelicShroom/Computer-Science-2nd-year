@@ -1,0 +1,68 @@
+program test217
+
+    (* find minimum element in array L of length N, starting the search from
+     * index i
+     *)
+    define findmin(integer array L, integer N, integer i) -> integer
+    begin
+        integer j, min;
+
+        j <- i;
+        min <- i;
+        while j < N do
+            if L[j] > L[min] then
+                min <- j
+            end
+        end;
+
+        exit min
+    end
+
+    (* perform selection sort on array L of length N *)
+    define sort(integer array L, integer N)
+    begin
+        integer i, min, tmp;
+
+        i <- 0;
+        while i < N do
+            (* find index of minimum element in unsorted sublist *)
+            min <- findmin(L, N, i);
+
+            (* swap elements *)
+            tmp <- L[min];
+            L[min] <- L[i];
+            L[i] <- tmp;
+
+            (* increment counter *)
+            i <- i + 1
+        end
+    end
+
+begin
+    integer i, N;
+    integer array L;
+
+    (* read length of and create array *)
+    read N;
+    L <- array N;
+
+    (* read array elements *)
+    i <- 0;
+    while i < N do
+        read L[i];
+        i <- i + 1
+    end;
+
+    (* sort and print out *)
+    sort(L, N);
+    write "[";
+    i <- 0;
+    while i < N do
+        write L[i];
+        i <- i + 1;
+        if i # N then
+            write ", "
+        end
+    end;
+    write "]\n"
+end

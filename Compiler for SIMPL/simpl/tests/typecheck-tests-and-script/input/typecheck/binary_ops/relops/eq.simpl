@@ -1,0 +1,7 @@
+program eq
+begin
+ integer a;
+ integer b;
+ boolean c;
+ c <- 256 = c
+end

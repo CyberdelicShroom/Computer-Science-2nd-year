@@ -1,0 +1,18 @@
+program exit_b 
+define return_boolean() -> boolean array
+   begin
+    boolean array beta;
+    integer array sigma;
+    beta <- array 2323232;
+    beta[7] <- false;
+    beta[27] <- true;
+    sigma <- array 12345;
+    exit sigma
+   end 
+
+begin
+ boolean array answers;
+ answers <- array 3;
+ answers[1] <- return_boolean();
+ answers[2] <- return_boolean();
+end

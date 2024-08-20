@@ -1,0 +1,1 @@
+simplc: compound.simpl:5:9: error: incompatible types (expected boolean, found integer) for 'not'

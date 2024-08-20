@@ -1,0 +1,9 @@
+program minus
+begin
+ boolean bool;
+ integer i;
+ i <- 4;
+ bool <- true;
+ i <- -bool;
+ i <- 2
+end

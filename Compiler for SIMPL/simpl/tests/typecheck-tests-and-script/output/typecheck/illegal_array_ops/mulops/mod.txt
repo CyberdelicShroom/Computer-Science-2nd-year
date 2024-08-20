@@ -1,0 +1,1 @@
+simplc: mod.simpl:5:52: error: 'mod' is an illegal array operation

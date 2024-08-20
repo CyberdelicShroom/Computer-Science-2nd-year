@@ -1,0 +1,6 @@
+program um
+begin
+ integer i;
+ integer array ia;
+ i <- - ia[3]
+end

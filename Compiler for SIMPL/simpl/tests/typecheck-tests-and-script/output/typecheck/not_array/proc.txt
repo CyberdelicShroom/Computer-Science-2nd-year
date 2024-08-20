@@ -1,0 +1,1 @@
+simplc: proc.simpl:9:7: error: 'funkshin' is not an array

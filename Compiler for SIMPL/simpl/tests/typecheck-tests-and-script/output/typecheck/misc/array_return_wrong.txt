@@ -1,0 +1,1 @@
+simplc: array_return_wrong.simpl:10:10: error: incompatible types (expected boolean array, found integer array) for 'exit' statement

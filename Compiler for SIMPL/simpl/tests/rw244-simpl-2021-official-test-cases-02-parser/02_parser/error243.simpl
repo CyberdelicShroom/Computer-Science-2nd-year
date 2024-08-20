@@ -1,0 +1,9 @@
+program error243
+    define f(integer i) -> integer k
+    begin
+        chill
+    end
+begin
+    integer s
+    chill
+end

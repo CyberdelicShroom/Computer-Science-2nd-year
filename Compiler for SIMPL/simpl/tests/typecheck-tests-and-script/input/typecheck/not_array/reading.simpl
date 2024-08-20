@@ -1,0 +1,5 @@
+program reading
+begin
+ integer i;
+ read i[1234]
+end

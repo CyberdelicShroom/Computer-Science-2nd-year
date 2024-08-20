@@ -1,0 +1,20 @@
+program test219
+
+    define fib(integer cur) -> integer
+    begin
+        integer prev1, prev2;
+        if (cur = 0) or (cur = 1) then
+            exit 1
+        else
+            prev1 <- cur - 1;
+            prev2 <- cur - 2;
+            exit fib(prev1) + fib(prev2)
+        end
+    end
+
+begin
+    integer n, f;
+    read n;
+    f <- fib(n);
+    write f
+end

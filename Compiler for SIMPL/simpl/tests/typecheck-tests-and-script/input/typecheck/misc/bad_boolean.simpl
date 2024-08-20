@@ -1,0 +1,7 @@
+program hello
+ begin
+  integer a;
+  boolean b;
+  b <- true or false and true or false or false or false and true or 900
+(* error position should be 5:67 *)
+  end

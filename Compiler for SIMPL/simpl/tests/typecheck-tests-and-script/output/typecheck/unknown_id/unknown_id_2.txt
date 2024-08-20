@@ -1,0 +1,1 @@
+simplc: unknown_id_2.simpl:3:9: error: unknown identifier 'bad'

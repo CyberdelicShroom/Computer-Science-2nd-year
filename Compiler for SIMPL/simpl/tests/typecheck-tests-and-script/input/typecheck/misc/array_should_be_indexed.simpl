@@ -1,0 +1,6 @@
+program hello
+ begin
+  integer a;
+  boolean array b;
+  b <- true or false and true or false or false or false and true
+ end

@@ -1,0 +1,9 @@
+program m_args
+define f() -> integer
+begin
+ exit 2021
+end
+begin
+ integer z;
+ z <- f
+end

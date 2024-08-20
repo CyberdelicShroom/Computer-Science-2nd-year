@@ -1,0 +1,1 @@
+simplc: minus.simpl:5:17: error: incompatible types (expected integer, found boolean) for operator '-'

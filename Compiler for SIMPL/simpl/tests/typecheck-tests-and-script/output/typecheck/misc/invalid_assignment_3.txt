@@ -1,0 +1,1 @@
+simplc: invalid_assignment_3.simpl:11:7: error: incompatible types (expected boolean array, found boolean) for assignment to 'b'

@@ -1,0 +1,10 @@
+program iaplz
+define takes_ia(integer array ia) -> integer array
+begin
+ exit ia
+end
+begin
+ integer array ia;
+ boolean array ba;
+ ia <- takes_ia(ba)
+end

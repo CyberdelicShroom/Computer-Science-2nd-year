@@ -1,0 +1,6 @@
+program bad_minus
+begin
+ integer array gamma;
+ gamma <- array 0;
+ gamma[2] <- -gamma
+end

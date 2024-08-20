@@ -1,0 +1,6 @@
+program ge
+begin
+ boolean a;
+ boolean b;
+ a <- 45 < b
+end

@@ -1,0 +1,10 @@
+program dont_index_me_bro
+define function() -> integer array
+begin
+ integer array ia;
+ exit ia
+end
+begin
+ integer i; 
+ i <- function[256]
+end

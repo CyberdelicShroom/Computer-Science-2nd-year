@@ -1,0 +1,7 @@
+program error206
+begin
+    i, j;
+    boolean a, b, c;
+
+    chill
+end

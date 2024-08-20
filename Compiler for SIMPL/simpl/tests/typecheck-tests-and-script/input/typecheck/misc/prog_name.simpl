@@ -1,0 +1,5 @@
+program something
+begin
+ integer i;
+ i <- something()
+end

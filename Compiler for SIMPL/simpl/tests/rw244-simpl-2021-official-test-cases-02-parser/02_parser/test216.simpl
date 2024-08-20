@@ -1,0 +1,11 @@
+program test216
+    define inc(integer i) -> integer
+    begin
+        exit i + 1
+    end
+begin
+    integer i;
+
+    i <- inc(i);
+    write i
+end

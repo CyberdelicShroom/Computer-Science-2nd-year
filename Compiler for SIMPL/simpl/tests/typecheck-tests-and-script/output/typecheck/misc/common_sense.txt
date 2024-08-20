@@ -1,0 +1,1 @@
+simplc: common_sense.simpl:7:9: error: incompatible types (expected boolean, found integer) for 'not'

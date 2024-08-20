@@ -1,0 +1,39 @@
+program reading
+begin
+ boolean array a;
+ read a[0];
+ read a[1];
+ read a[2];
+ read a[3];
+ read a[4];
+ read a[5];
+ read a[6];
+ read a[7];
+ read a[8];
+ read a[9];
+ read a[10];
+ read a[11];
+ read a[12];
+ read a[13];
+ read a[14];
+ read a[15];
+ read a[16];
+ read a[17];
+ read a[18];
+ read a[19];
+ read a[20];
+ read a[21];
+ read a[22];
+ read a[23];
+ read a[24];
+ read a[25];
+ read a[26];
+ read a[27];
+ read a[28];
+ read a[29];
+ read a[30];
+ read a[31];
+ read a[32];
+ read a[33];
+ read a[34]
+end

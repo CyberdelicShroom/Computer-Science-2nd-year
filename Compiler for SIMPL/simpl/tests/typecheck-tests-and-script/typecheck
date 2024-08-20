@@ -1,0 +1,6 @@
+This file is just here so that autocompletion works for 'typecheck' when running
+other_script.py. 
+
+i.e: 
+python3 other(press tab to autocomplete) type(press tab to autocomplete) 
+should work if this file is in your working directory

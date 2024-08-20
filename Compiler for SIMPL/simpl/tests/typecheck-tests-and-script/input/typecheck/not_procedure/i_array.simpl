@@ -1,0 +1,7 @@
+program i_array
+begin
+ integer array i;
+ integer j;
+ i <- array 10;
+ j <- i(i,j,i,j,i)
+end

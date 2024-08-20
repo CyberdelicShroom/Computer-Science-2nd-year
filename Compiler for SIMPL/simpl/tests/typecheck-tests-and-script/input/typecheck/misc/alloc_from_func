@@ -1,0 +1,9 @@
+program aff
+define func() -> integer
+begin
+ exit 3
+end
+begin
+ integer i;
+ i <- func()
+end

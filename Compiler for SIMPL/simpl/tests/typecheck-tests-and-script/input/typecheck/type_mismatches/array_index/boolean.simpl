@@ -1,0 +1,8 @@
+program boolean_index
+begin
+ integer array i;
+ integer j;
+ boolean b;
+ i <- array 12344321;
+ j <- i[b] 
+end

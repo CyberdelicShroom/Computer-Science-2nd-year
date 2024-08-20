@@ -1,0 +1,1 @@
+simplc: div.simpl:5:30: error: incompatible types (expected integer, found boolean) for operator '/'

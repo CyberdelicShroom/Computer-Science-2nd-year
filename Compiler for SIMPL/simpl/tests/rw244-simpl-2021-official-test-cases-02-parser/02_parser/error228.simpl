@@ -1,0 +1,4 @@
+program error228
+begin
+    write true or
+end

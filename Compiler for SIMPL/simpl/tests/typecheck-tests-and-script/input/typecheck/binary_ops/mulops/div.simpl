@@ -1,0 +1,6 @@
+program div
+begin
+ integer a;
+ boolean b;
+ a <- 3 / 9 / 12 / 123 / 543 / b
+end

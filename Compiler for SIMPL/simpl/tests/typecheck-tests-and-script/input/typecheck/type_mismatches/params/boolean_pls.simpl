@@ -1,0 +1,10 @@
+program programm
+define takes_boolean(boolean b) -> boolean
+begin
+ exit not b
+end
+
+begin
+ boolean b;
+ b <- takes_boolean(77)
+end

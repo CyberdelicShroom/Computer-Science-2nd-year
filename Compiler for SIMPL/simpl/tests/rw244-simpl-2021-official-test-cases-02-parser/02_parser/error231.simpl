@@ -1,0 +1,6 @@
+program error231
+begin
+    integer array a;
+
+    write a[1
+end

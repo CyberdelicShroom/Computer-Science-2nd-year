@@ -1,0 +1,8 @@
+program atof
+define func() -> integer
+begin
+ exit 3
+end
+begin
+ func <- 3
+end

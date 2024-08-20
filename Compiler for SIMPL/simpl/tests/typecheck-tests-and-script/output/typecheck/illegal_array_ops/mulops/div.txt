@@ -1,0 +1,1 @@
+simplc: div.simpl:5:30: error: '/' is an illegal array operation

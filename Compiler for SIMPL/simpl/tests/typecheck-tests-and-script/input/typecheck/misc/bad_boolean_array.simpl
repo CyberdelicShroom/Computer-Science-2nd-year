@@ -1,0 +1,11 @@
+program hello
+ begin
+  integer a;
+  boolean array b;
+(* 
+ * Not sure if the expected error for this case is correct. I think it is,
+ * because we can only verify that the expression is the correct type once we have
+ * a valid expression 
+ *)
+  b <- true or false and true or false or false or false and true or 900
+ end

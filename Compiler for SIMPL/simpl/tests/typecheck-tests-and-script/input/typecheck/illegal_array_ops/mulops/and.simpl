@@ -1,0 +1,6 @@
+program andd
+begin
+ boolean a;
+ boolean array b;
+ a <- a and b
+end

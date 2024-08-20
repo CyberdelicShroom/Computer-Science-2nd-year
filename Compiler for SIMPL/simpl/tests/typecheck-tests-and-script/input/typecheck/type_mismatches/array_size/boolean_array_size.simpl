@@ -1,0 +1,6 @@
+program boolean_size
+begin
+ integer array a;
+ boolean array d;
+ a <- array d
+end

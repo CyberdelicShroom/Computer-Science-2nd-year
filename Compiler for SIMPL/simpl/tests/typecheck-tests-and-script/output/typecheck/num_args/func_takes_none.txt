@@ -1,0 +1,1 @@
+simplc: func_takes_none.simpl:10:7: error: function 'function' takes no arguments

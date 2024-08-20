@@ -1,0 +1,5 @@
+program nott
+begin
+ integer i;
+ i <- 00003;
+ i <- not i

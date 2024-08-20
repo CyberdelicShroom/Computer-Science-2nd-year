@@ -1,0 +1,1 @@
+simplc: div_2.simpl:5:9: error: incompatible types (expected integer, found boolean) for operator '/'

@@ -1,0 +1,4 @@
+program error227
+begin
+    write true and
+end

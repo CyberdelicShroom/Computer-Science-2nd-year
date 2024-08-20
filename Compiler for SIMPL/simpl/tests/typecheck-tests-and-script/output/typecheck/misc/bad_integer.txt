@@ -1,0 +1,1 @@
+simplc: bad_integer.simpl:4:30: error: incompatible types (expected integer, found boolean) for operator '+'

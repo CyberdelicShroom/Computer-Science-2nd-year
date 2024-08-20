@@ -1,0 +1,9 @@
+program hiding
+define function_name(integer i, boolean b)
+begin
+ integer function_name;
+end
+
+begin
+chill
+end

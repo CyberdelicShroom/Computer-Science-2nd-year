@@ -1,0 +1,15 @@
+program mixed_params
+define proc(integer a, boolean b, integer array c, boolean array d)
+begin
+ a <- a + c[a]
+end
+
+begin
+integer array c;
+boolean array d;
+(* correct call *)
+proc(1, false, c, d);
+(* third wrong *)
+proc(1, false, 3, false);
+(* fourth wrong *)
+proc(1, false, c, 1234);

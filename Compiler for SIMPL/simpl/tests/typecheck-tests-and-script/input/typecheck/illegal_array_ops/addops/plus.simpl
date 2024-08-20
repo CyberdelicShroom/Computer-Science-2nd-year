@@ -1,0 +1,6 @@
+program bin_minus
+begin
+ integer array a;
+ integer b;
+ b <- 3 + a
+end

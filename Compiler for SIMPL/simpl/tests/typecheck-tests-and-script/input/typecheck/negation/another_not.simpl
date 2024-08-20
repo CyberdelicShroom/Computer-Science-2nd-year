@@ -1,0 +1,5 @@
+program another_not
+begin
+ boolean b;
+ b <- not 78
+end

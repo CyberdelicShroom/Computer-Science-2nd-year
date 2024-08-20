@@ -1,0 +1,1 @@
+simplc: bad_proc.simpl:5:7: error: an exit expression is not allowed for a procedure

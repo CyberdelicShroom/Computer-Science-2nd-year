@@ -1,0 +1,1 @@
+simplc: plus_proc.simpl:21:40: error: 'procedure' is not a function

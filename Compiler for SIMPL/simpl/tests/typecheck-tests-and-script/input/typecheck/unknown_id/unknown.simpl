@@ -1,0 +1,19 @@
+
+
+program arglist
+define function(integer a, boolean array b)
+begin
+                                                                          integer
+array c;
+c <-                                             
+array 1000000;
+ c[1] <- 2021;
+ c[0] <- c[1] + 1
+end
+begin
+ boolean array b;
+ b <- array 10;
+ function(a,b); (*error position should be 16:11 due to unknown identifier 'a'*)
+ function(1, b, 3)
+end
+ 

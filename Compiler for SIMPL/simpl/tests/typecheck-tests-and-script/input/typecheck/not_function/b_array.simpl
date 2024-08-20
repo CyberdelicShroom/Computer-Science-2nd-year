@@ -1,0 +1,8 @@
+program b_array
+begin
+ boolean array b;
+ integer i;
+ i <- 3;
+ b <- array 1234892;
+ i <- b(i, i, i, i, b, b, b, b, b, b, b)
+end

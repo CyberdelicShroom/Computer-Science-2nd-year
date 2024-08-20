@@ -1,0 +1,6 @@
+program f
+begin
+ integer b;
+ boolean a;
+ b <- a[3]
+end

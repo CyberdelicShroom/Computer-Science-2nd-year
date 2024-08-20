@@ -1,0 +1,7 @@
+program ge
+begin
+ integer a;
+ boolean b;
+ boolean c;
+ c <- 45 >= b
+end

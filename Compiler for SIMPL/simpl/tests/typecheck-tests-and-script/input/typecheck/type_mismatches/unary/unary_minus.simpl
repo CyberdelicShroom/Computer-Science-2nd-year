@@ -1,0 +1,11 @@
+program um
+define function() -> integer array
+begin
+ integer array ia;
+ exit ia
+end
+begin
+ integer i;
+ i <- - function()[3];
+ i <- - function[3]
+end

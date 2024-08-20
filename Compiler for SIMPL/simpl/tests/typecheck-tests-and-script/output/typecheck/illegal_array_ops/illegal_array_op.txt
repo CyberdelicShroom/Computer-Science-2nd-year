@@ -1,0 +1,1 @@
+simplc: illegal_array_op.simpl:6:10: error: '+' is an illegal array operation

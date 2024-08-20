@@ -1,0 +1,1 @@
+simplc: ne.simpl:6:11: error: '#' is an illegal array operation

@@ -1,0 +1,6 @@
+program bad_minus
+begin
+ boolean gamma;
+ integer i;
+ i <- -gamma
+end

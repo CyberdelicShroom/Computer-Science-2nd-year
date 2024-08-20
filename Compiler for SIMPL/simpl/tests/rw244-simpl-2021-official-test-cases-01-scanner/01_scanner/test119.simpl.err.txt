@@ -1,0 +1,1 @@
+testscanner: test119.simpl:1:1: error: string not closed

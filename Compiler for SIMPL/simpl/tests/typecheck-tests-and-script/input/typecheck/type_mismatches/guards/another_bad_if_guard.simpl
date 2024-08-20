@@ -1,0 +1,7 @@
+program guard
+begin
+ if 192039870
+  then
+   chill
+  end
+end

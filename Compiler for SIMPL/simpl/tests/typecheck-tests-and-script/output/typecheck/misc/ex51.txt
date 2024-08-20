@@ -1,0 +1,1 @@
+simplc: ex51.simpl:7:14: error: incompatible types (expected boolean, found integer) for operator 'and'

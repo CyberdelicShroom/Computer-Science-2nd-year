@@ -1,0 +1,11 @@
+program not_vars
+define proc()
+begin
+ if (false)
+  then 
+   write "nothing"
+  end
+end
+begin
+ proc <- proc()
+end

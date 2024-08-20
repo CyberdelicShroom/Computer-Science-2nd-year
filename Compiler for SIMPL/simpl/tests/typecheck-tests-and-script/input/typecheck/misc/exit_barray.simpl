@@ -1,0 +1,14 @@
+program exit_ba 
+
+define return_bool_array() -> boolean array
+   begin
+    boolean array mu;
+    mu <- array 99999999;
+    mu[1] <- mu[2];
+    exit mu
+   end
+
+begin
+ boolean array ba;
+ ba <- return_bool_array()
+end

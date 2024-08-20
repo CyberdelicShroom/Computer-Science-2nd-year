@@ -1,0 +1,13 @@
+program test210
+begin
+    integer i;
+
+    i <- 7;
+    if i < 10 then
+        write -1
+    elsif i > 0 then
+        write 1
+    else
+        write 0
+    end
+end

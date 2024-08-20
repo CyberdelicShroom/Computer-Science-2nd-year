@@ -1,0 +1,6 @@
+program comp
+begin
+ boolean b;
+ b <- not true and not false or not true or not false or not true and not false
+and not 1000
+end

@@ -1,0 +1,7 @@
+program plus
+begin
+ integer i;
+ boolean j;
+ (* error position should be 6:37 *)
+ i <- i + i + i - i + i / i * i - i + j
+end

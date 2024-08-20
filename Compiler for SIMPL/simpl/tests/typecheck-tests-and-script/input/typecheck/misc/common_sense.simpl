@@ -1,0 +1,12 @@
+program sense
+define inc(integer a) -> integer
+begin
+ exit a + 1
+end
+begin
+ if not inc(1)
+  then
+   write "that doesn't make sense"
+ end
+end
+

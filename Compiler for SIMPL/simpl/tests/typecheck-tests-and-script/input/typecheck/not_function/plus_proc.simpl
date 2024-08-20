@@ -1,0 +1,22 @@
+program plus
+define procedure()
+ begin
+  chill
+ end
+
+define function_i() -> integer
+ begin
+  exit 234
+ end
+
+define function_b() -> boolean
+ begin
+  exit false
+ end
+
+begin
+ integer i;
+ boolean j;
+ (* error position should be 21:38 *)
+ i <- i + i + i - i + i / i * i - i  + procedure()
+end

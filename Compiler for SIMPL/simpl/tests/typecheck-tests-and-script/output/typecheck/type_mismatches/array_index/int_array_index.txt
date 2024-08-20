@@ -1,0 +1,1 @@
+simplc: int_array_index.simpl:7:9: error: incompatible types (expected integer, found integer array) for array index of 'i'

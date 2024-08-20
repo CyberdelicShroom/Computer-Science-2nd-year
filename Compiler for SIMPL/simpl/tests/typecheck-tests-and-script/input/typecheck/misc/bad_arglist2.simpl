@@ -1,0 +1,11 @@
+program arglist
+define function(integer a, boolean array b)
+begin
+ a <- a + 1
+end
+begin
+ boolean array b;
+ b <- array 10;
+ function(1, b, 3)
+end
+ 

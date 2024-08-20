@@ -1,0 +1,5 @@
+program bad_alloc
+begin
+ boolean array ba;
+ ba[90] <- array 9001
+end

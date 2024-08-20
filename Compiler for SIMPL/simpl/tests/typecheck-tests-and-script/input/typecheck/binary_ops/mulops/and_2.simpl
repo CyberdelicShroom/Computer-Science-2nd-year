@@ -1,0 +1,6 @@
+program andd
+begin
+ boolean a;
+ integer b;
+ a <- b and a
+end

@@ -1,0 +1,6 @@
+program error239
+begin
+    integer x;
+
+    print x
+end

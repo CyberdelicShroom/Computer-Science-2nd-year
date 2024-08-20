@@ -1,0 +1,1 @@
+simplc: exit_proc_position.simpl:6:16: error: an exit expression is not allowed for a procedure

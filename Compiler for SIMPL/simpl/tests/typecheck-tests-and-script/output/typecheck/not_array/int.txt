@@ -1,0 +1,1 @@
+simplc: int.simpl:5:7: error: 'a' is not an array

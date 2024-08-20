@@ -1,0 +1,10 @@
+program exercise_5_1
+begin
+ integer i;
+ integer j;
+ if (i > 0) and (j > 0) then
+  write true
+ elsif i > 0 and j > 0 then
+  write false
+ end
+end

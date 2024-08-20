@@ -1,0 +1,1 @@
+simplc: func.simpl:8:7: error: 'funkshin' is not an array

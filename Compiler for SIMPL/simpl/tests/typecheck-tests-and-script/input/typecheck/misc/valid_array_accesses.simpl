@@ -1,0 +1,21 @@
+program valid_code 
+
+define bad_function(integer a, boolean b, integer c, boolean d, boolean e,
+integer f, integer g, integer h, integer i, integer j, integer k)
+begin
+ integer array ia;
+ boolean array ba;
+ ia[0] <- a;
+ ba[0] <- b;
+ ia[1] <- c;
+ ba[1] <- d;
+ ia[2] <- f;
+ ia[3] <- g;
+ ia[4] <- h;
+ ia[5] <- i;
+ ia[6] <- j;
+ ia[7] <- k
+end 
+begin
+ chill
+end

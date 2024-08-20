@@ -1,0 +1,6 @@
+program mul
+begin
+ integer a;
+ integer array b;
+ a <- 3 * 4 / 2 * b
+end

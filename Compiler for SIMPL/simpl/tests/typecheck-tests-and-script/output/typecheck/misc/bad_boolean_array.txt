@@ -1,0 +1,1 @@
+simplc: bad_boolean_array.simpl:10:67: error: incompatible types (expected boolean, found integer) for operator 'or'

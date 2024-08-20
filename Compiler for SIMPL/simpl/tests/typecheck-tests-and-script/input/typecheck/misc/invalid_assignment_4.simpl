@@ -1,0 +1,12 @@
+program valid
+begin
+ integer array a;
+ boolean array b;
+ integer array c;
+ boolean array d;
+ a <- c;
+ c <- a;
+ b <- d;
+ d <- b;
+ b <- a[1]
+end

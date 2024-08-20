@@ -1,0 +1,6 @@
+program orr
+begin
+ boolean b;
+ (* error position should be 5:55 *)
+ b <- true and false or true or true or false or true or 5
+end

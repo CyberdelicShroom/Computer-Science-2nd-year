@@ -1,0 +1,17 @@
+program error241
+begin
+    integer i, j;
+    
+    i <- 0;
+    j <- 5;
+    while i < 5 do
+        while j > 0 do
+            j <- 
+            write i;
+            write j
+        end;
+        i <- i + 1
+    end;
+    write i;
+    write j
+end

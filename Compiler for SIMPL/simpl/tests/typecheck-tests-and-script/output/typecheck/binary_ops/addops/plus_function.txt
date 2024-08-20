@@ -1,0 +1,1 @@
+simplc: plus_function.simpl:21:37: error: incompatible types (expected integer, found boolean) for operator '+'

@@ -1,0 +1,1 @@
+simplc: boolean.simpl:7:9: error: incompatible types (expected integer, found boolean) for array index of 'i'

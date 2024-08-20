@@ -1,0 +1,1 @@
+simplc: unary_array.simpl:5:14: error: unary minus is an illegal array operation

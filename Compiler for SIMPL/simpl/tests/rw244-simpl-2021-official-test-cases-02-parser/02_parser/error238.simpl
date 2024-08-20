@@ -1,0 +1,9 @@
+program error238
+begin
+    integer array x;
+
+    x[0] <- 0
+    begin
+        chill
+    end
+end

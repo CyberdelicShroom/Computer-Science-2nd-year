@@ -1,0 +1,10 @@
+program f
+define funkshin()
+begin
+ integer i;
+ i <- 0
+end
+begin
+ boolean b;
+ b <- funkshin[3]
+end

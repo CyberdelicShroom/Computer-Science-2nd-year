@@ -1,0 +1,7 @@
+program error204
+begin
+    integer i, ;
+    boolean a, b, c;
+
+    chill
+end

@@ -1,0 +1,9 @@
+program declar
+begin
+ integer a;
+ boolean b;
+ integer a;
+ integer b;
+ a <- 3;
+ b <- 4 + a + 10;
+end

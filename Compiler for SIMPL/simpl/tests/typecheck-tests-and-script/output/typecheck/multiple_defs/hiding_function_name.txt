@@ -1,0 +1,1 @@
+simplc: hiding_function_name.simpl:2:30: error: multiple definition of 'function_name'

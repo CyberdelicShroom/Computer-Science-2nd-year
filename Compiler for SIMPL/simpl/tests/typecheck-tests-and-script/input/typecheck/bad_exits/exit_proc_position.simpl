@@ -1,0 +1,13 @@
+program bad_exit
+define proc(integer a, boolean b, integer array c, boolean array d)
+begin
+ (* This should cause an error *)
+ exit
+               d[a] or d[c[a]] and d[c[a]] or d[c[a]] and d[c[99]] or d[56] and
+d[c[c[c[c[c[c[0]]]]]]]
+end
+begin
+ integer array a;
+ boolean array d;
+ proc(1, false, a, d)
+end

@@ -1,0 +1,1 @@
+simplc: bad_funkshin.simpl:4:2: error: missing exit expression for a function

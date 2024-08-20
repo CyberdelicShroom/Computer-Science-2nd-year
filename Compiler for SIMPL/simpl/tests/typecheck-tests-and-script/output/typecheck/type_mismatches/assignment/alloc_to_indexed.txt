@@ -1,0 +1,1 @@
+simplc: alloc_to_indexed.simpl:4:12: error: incompatible types (expected integer, found integer array) for allocation to indexed array 'ia'

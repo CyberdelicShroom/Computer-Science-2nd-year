@@ -1,0 +1,6 @@
+program orr
+begin
+ boolean array a;
+ boolean b;
+ b <- b or a
+end

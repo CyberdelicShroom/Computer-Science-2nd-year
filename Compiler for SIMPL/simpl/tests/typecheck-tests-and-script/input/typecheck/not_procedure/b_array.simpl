@@ -1,0 +1,6 @@
+program b_array
+begin
+ boolean array a;
+ a[0] <- true;
+ a(a, a, a)
+end

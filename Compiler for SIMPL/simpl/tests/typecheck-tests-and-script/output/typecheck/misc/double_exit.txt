@@ -1,0 +1,1 @@
+simplc: double_exit.simpl:11:10: error: incompatible types (expected boolean array, found integer) for 'exit' statement

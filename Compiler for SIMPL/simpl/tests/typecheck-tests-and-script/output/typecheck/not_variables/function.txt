@@ -1,0 +1,1 @@
+simplc: function.simpl:7:2: error: 'func' is not a variable

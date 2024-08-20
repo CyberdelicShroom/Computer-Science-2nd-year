@@ -1,0 +1,1 @@
+simplc: arr_func.simpl:6:2: error: missing exit expression for a function

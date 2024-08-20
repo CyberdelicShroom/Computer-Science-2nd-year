@@ -1,0 +1,8 @@
+program not_vars
+define func() -> boolean
+begin
+ exit false
+end
+begin
+ func <- true
+end

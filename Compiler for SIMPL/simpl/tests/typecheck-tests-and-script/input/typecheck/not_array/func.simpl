@@ -1,0 +1,9 @@
+program f
+define funkshin() -> boolean
+begin
+ exit true
+end
+begin
+ boolean b;
+ b <- funkshin[3]
+end

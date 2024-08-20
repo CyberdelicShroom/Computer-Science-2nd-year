@@ -1,0 +1,7 @@
+program error234
+begin
+    integer x;
+
+    chill;
+    chill
+end

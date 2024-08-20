@@ -1,0 +1,6 @@
+program Boole
+begin
+ boolean a;
+ a <- true;
+ a(a, a, a)
+end

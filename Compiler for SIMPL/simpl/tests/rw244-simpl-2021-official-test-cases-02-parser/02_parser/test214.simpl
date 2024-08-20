@@ -1,0 +1,8 @@
+program test213
+begin
+    integer i;
+
+    write "Please enter an integer: ";
+    read i;
+    write "You entered " & i
+end

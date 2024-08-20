@@ -1,0 +1,36 @@
+program test218
+    define reverse(integer array L, integer N)
+    begin
+        integer i, tmp, n, pos;
+        n <- N/2;
+        i <- 0;
+        while i < n do
+            pos <- N-1-i;
+            tmp <- L[pos];
+            L[pos] <- L[i];
+            L[i] <- tmp;
+            i <- i + 1
+        end
+    end
+begin
+    integer i, N;
+    integer array L;
+    read N;
+    L <- array N;
+    i <- 0;
+    while i < N do
+        read L[i];
+        i <- i + 1
+    end;
+    reverse(L, N);
+    write "[";
+    i <- 0;
+    while i < N do
+        write L[i];
+        i <- i + 1;
+        if i # N then
+            write ", "
+        end
+    end;
+    write "]\n"
+end

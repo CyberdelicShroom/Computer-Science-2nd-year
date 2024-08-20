@@ -1,0 +1,4 @@
+program guard
+begin
+ while (bad)
+end

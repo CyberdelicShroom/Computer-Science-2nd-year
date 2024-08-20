@@ -1,0 +1,9 @@
+program not_a
+define function() -> boolean
+begin
+ exit true
+end
+
+begin
+ function()
+end

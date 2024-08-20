@@ -1,0 +1,10 @@
+program m_args
+define f() -> boolean array
+begin
+ boolean array ba;
+ exit ba
+end
+begin
+ boolean array ba;
+ ba <- f
+end

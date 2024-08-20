@@ -1,0 +1,5 @@
+program bad_alloc
+begin
+ integer array ia;
+ ia[90] <- array 9001
+end

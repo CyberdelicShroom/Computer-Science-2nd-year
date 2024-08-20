@@ -1,0 +1,1 @@
+simplc: mixed_params3.simpl:13:16: error: incompatible types (expected integer array, found integer) for parameter 3 of call to 'proc'

@@ -1,0 +1,12 @@
+program guard
+begin
+ boolean array b;
+ b <- array 29;
+ if (true)
+  then
+	chill
+ elsif (b)
+  then
+   chill
+ end
+end 

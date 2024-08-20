@@ -1,0 +1,1 @@
+simplc: int_array_pls.simpl:9:17: error: incompatible types (expected integer array, found boolean array) for parameter 1 of call to 'takes_ia'

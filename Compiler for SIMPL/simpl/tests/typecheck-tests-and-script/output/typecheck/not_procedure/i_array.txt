@@ -1,0 +1,1 @@
+simplc: i_array.simpl:6:7: error: 'i' is not a function

@@ -1,0 +1,1 @@
+simplc: or.simpl:5:9: error: 'or' is an illegal array operation

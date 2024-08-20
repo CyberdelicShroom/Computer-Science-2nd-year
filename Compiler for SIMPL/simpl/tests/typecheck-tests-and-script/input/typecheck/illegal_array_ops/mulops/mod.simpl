@@ -1,0 +1,6 @@
+program mmod
+begin
+ integer a;
+ integer array b;
+ a <- 12 mod 4 mod 5 mod 6 mod 7 mod 8 * 118 / 907 mod b
+end

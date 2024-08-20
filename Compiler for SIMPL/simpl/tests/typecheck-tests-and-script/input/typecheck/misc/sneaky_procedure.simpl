@@ -1,0 +1,11 @@
+program proc
+define procc()
+begin
+ chill
+end
+begin
+ integer i;
+ boolean j;
+ i <- procc;
+ j <- procc
+end

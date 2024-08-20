@@ -1,0 +1,6 @@
+program error232
+begin
+    integer array a;
+
+    write a[
+end

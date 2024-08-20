@@ -1,0 +1,1 @@
+simplc: wrong_type1.simpl:17:11: error: incompatible types (expected integer, found boolean array) for parameter 1 of call to 'function'

@@ -1,0 +1,1 @@
+simplc: function.simpl:8:2: error: 'function' is not a procedure

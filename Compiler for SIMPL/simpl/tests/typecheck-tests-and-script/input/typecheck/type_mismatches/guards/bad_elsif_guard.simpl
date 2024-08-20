@@ -1,0 +1,10 @@
+program guard
+begin
+ if (true)
+  then
+	chill
+ elsif (1234)
+  then
+   chill
+ end
+end

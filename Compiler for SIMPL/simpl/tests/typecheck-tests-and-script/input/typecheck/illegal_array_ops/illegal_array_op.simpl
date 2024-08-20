@@ -1,0 +1,7 @@
+program hello
+ begin
+  integer a;
+  boolean array b;
+  b <- array 10;
+  a <- b + 2
+ end

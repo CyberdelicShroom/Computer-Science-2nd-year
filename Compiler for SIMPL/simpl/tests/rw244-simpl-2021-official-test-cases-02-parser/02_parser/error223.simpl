@@ -1,0 +1,6 @@
+program error223
+begin
+    while true
+        chill
+    end
+end

@@ -1,0 +1,7 @@
+program brexit
+define function() -> boolean array
+ begin
+  boolean array b;
+  b <- array 1234;
+  exit 1234
+ end

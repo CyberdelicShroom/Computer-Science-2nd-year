@@ -1,0 +1,1 @@
+simplc: bad_equals.simpl:6:5: error: expected argument list or variable assignment, but found '='

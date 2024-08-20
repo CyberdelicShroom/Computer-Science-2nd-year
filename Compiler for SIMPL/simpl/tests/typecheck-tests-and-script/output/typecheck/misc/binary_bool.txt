@@ -1,0 +1,1 @@
+simplc: binary_bool.simpl:7:12: error: incompatible types (expected integer, found boolean) for operator '-'

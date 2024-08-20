@@ -1,0 +1,1 @@
+simplc: wrong_return_type.simpl:8:10: error: incompatible types (expected boolean, found integer) for 'exit' statement

@@ -1,0 +1,12 @@
+program programm
+begin
+ integer array ia;
+ boolean array ba;
+ if (ba[1] and ba[2] and ba[3] or ba[4])
+  then
+   ia[1] <- 3
+ elsif (ba[1] and ba[2] and ba[3] or ia[1234])
+  then
+   chill
+ end
+end

@@ -1,0 +1,6 @@
+program int
+begin
+ integer i;
+ i <- 3;
+ i <- i(1,1,1,1,1,1,1)
+end

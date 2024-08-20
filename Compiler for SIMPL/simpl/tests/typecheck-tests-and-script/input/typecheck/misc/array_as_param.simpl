@@ -1,0 +1,15 @@
+program a_param
+define func(boolean array b, integer array c)
+begin
+ if (b[0] and (c[0] < 2))
+  then
+   write "such conditions, much wow"
+ else
+  write "what r u doing?"
+ end
+end
+begin
+ boolean array a;
+ integer array f;
+ func(a,f)
+end

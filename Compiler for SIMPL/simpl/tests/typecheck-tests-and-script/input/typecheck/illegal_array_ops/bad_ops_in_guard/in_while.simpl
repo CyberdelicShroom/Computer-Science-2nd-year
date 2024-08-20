@@ -1,0 +1,9 @@
+program programm
+begin
+ integer array ia;
+ boolean array ba;
+ while (ba[2] and ia[1])
+  do
+   chill
+  end
+end

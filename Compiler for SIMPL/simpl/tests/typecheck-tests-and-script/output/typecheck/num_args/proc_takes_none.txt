@@ -1,0 +1,1 @@
+simplc: proc_takes_none.simpl:8:2: error: procedure 'procedure' takes no arguments

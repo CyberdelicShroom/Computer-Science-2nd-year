@@ -1,0 +1,1 @@
+simplc: bad_arglist2.simpl:9:15: error: too many arguments for call to 'function'

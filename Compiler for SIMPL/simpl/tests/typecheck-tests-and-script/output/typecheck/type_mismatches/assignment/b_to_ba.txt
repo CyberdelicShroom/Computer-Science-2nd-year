@@ -1,0 +1,1 @@
+simplc: b_to_ba.simpl:37:7: error: incompatible types (expected boolean array, found boolean) for assignment to 'c'

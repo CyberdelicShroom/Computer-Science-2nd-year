@@ -1,0 +1,4 @@
+program error224
+begin
+    write 4 <
+end
